@@ -1,5 +1,5 @@
 # MECKD
-The Python source code for Deep Learning-based Fall Detection in Multi-layer Mobile Edge Computing with Knowledge Distillation
+The Python source code for "Deep Learning-based Fall Detection in Multi-layer Mobile Edge Computing with Knowledge Distillation"
   * Data Preprocessing
   * Threshold-based Classification Function
   * ResNet18, MobileNet, and CNN Model
